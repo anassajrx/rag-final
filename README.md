@@ -30,6 +30,9 @@ The core system combines LangChain for managing language model workflows, Chroma
 - **Streamlit Front-End**: A simple and interactive interface for easy interaction with the RAG system.
 
 ## Demo
+
+https://github.com/user-attachments/assets/802854ad-434b-4680-a788-4ceb8a370d22
+
 ![WhatsApp Image 2024-08-26 at 17 38 57_f6757b70](https://github.com/user-attachments/assets/b78a3883-cb29-43c7-b568-64ec20552bfc)
 ![jpg](https://github.com/user-attachments/assets/dbb33383-eeff-4c43-b374-10abdd3e26f7)
 
