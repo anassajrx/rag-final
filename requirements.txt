@@ -127,3 +127,7 @@ streamlit
 google.generativeai
 langchain_community.vectorstores
 langchain_huggingface
+pandas
+numpy
+PyPDF2
+huggingface_hub
