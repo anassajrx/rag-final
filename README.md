@@ -165,9 +165,6 @@ Contributions are welcome! Please follow these steps:
 
 Submit a pull request for review.
 
-## License
-
-*Specify the license under which the project is distributed.*
 
 ## Acknowledgements
 
